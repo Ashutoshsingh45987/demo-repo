@@ -1,3 +1,3 @@
 # DEMO OF GIT AND GITHUB
 
-aaaaaaaaaaaaajjjjjjjjjjjjjjkkkkkkkkkkkkkkkkklllllllllllllllll
+some kind of description:::::::::
